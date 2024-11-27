@@ -11,7 +11,7 @@ env:
   ECR_REPOSITORY: springbootecr
   AWS_REGION: ap-northeast-2
   ECS_CLUSTER: springbootcluster
-  ECS_SERVICE: springbootsvc
+  ECS_SERVICE: springbootsvc02
   CONTAINER_NAME: springboottask
   ECS_TASK_DEFINITION: ./task-definition.json
 
